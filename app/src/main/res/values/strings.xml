@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodRunner</string>
+    <string name="foodrunner">FoodRunner</string>
+    <string name="forget_password"><u>Forget Password?</u></string>
+    <string name="Dhave"><u>Don\'t have an account?Sign Up Now</u></string>
+    <string name="enter_your_registered_mobile_number_and_email_below">Enter your registered mobile number and email below:</string>
+    <string name="mobile">Mobile Number (10 Digits)</string>
+    <string name="next">Next</string>
+    <string name="login">LoginPreferences</string>
+</resources>
